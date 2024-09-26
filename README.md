@@ -2,6 +2,8 @@
 
 This python challenge contains two jupyter notebooks WeatherPy and VacationPy. Both make calls on API databases OpenWeatherAPI and Geoapify. There are 581 cities in this list from all over the world and any data collected is stored in cities.csv. From this data we can determine if there is any corelation between the data provided from each city.
 
+For my sources, I did use a lot of Chat GPT for help and some tutoring as well. However, the code is mine alone.
+
 WEATHERPY
 
 ![alt text](image-1.png)
